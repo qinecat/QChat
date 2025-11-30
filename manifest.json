@@ -1,6 +1,6 @@
 {
-  "name": "QUQ",
-  "short_name": "QUQ",
+  "name": "OωOChat",
+  "short_name": "OωOChat",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#FFFFFF",
@@ -30,6 +30,7 @@
   ]
 
 }
+
 
 
 
