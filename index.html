@@ -1516,6 +1516,12 @@
         .message-input-area .icon-btn.send-btn {
             width: 60px;
             font-size: 15px;
+           /* 这种方式不需要固定 height */
+    padding-top: 10px;    /* 上边距小一点 */
+    padding-bottom: 9px; /* 下边距大一点，把文字顶上去 */
+    padding-left: 9px;
+    padding-right: 10px; /* 右边距大一点，把文字顶上去 */
+    line-height: 1;      /* 紧缩行高，避免行高干扰 */
         }
 
         #multi-select-bar {
