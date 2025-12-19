@@ -3,8 +3,9 @@
   "short_name": "QChat",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#FFFFFF",
-  "theme_color": "#FFFFFF",
+  "display_override": ["window-controls-overlay", "standalone"], 
+  "theme_color": "#00000000", 
+  "background_color": "#ffffff",
   "description": "一个有趣的网页应用",
   "icons": [
     {
@@ -30,6 +31,7 @@
   ]
 
 }
+
 
 
 
